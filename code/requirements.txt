@@ -1,0 +1,12 @@
+numpy==1.21.6
+pandas==1.4.2
+mat4py==0.5.0
+torch==1.11.0
+lightgbm==3.3.2
+scikit-learn==1.0.2
+wandb==0.12.14
+catboost==1.0.5
+sdv==0.14.0
+optuna==2.10.0
+pytorch_tabnet==3.1.1
+xgboost==1.6.1

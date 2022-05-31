@@ -1,0 +1,17 @@
+{
+  "task_type": "learn",
+  "dataset_name": "syn6",
+  "dataset_path": "data/datasets/synthetic/Syn6/",
+  "dataset_type": "classification",
+
+  "tvae_best_path": "data/augmentations/best_aug_models/syn6_best_models/tvae_best.pkl",
+  "ctgan_best_path": "data/augmentations/best_aug_models/syn6_best_models/ctgan_best.pkl",
+  "model_type": "tabnet",
+  "warm_start":[0.0, 0.0, 0.0],
+
+
+  "best_params_path": "./augmentations/best_aug_params/forest_cover/best_params_tvae.json",
+  "best_model_path": "./augmentations/best_aug_models/forest_cover_best_models",
+  "aug_type": "",
+  "percentage_selection": 0.1
+}
